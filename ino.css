@@ -1,0 +1,13 @@
+.right-img {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 100px;
+    width: 100px;
+  }
+  
+  img{
+    height:500px;
+     width:300px;
+  }
